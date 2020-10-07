@@ -1,0 +1,7 @@
+.FLEG{
+  background-image: url('../img/folder/emma.jpg');
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 100%;
+  height: 700px;
+}
